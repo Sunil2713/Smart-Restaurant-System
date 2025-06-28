@@ -234,4 +234,4 @@ For questions or support, please open an issue in the repository.
 
 ---
 
-**Note**: This project is designed for educational and demonstration purposes. For commercial deployment, additional safety measures and certifications may be required. 
+**Note**: This project is designed for educational and demonstration purposes. For commercial deployment, additional safety measures and certifications may be required.
